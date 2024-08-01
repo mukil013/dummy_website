@@ -1,10 +1,10 @@
 import React from 'react'
 import { Button } from 'antd'
 
-export default function Home() {
+export default function Contact() {
   return (
     <div className='h-screen w-full flex flex-col justify-center items-center gap-4'>
-      <h1 className='text-4xl'>This is Home Page</h1><br />
+      <h1 className='text-4xl'>This is Contact Page</h1><br />
       <p className='text-center w-3/4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel quidem recusandae ea nisi cupiditate? Impedit porro quaerat ab, magnam explicabo deserunt quo ipsam, esse temporibus in tempora cum, labore ratione.
       Accusamus minima quisquam nobis odit in! Dolorum eaque similique cum quisquam atque voluptas nemo. Fugit, similique temporibus. Ullam sapiente optio at ex possimus numquam, laborum quisquam tempore praesentium neque nesciunt?
       Asperiores ducimus ullam consectetur deserunt eius exercitationem. Blanditiis aut suscipit quod necessitatibus animi maxime vel deserunt aliquam nesciunt doloremque modi, repellat placeat officiis neque nobis natus. Unde doloribus vel sint.
@@ -15,7 +15,7 @@ export default function Home() {
       Facilis ducimus itaque ipsa ratione neque suscipit dolorum eum minima veniam minus nostrum velit necessitatibus quaerat vero non, sint molestiae sunt! Illo porro corrupti, ratione esse odit quaerat minus eum.
       Aut quis quam ipsam alias nulla ad temporibus repellendus facilis eum adipisci dolorum enim deleniti suscipit sint, quasi at ipsum beatae et optio. Placeat sapiente earum esse aperiam sint cumque!
       Omnis itaque quibusdam, fuga cumque rerum voluptatibus commodi voluptatem ducimus sed voluptate delectus saepe debitis illum culpa, in officia nisi nemo, corrupti at! Accusantium ea commodi eaque, voluptatibus magnam architecto?</p>
-      <Button>Home Button</Button>
+      <Button>Contact Button</Button>
     </div>
   )
 }
